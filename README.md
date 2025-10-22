@@ -92,6 +92,9 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 * 🆓📺 [**IT Helpdesk/Support Real Life Tickets by Kevtech IT Support**](https://www.youtube.com/playlist?list=PLdh13bXVc6-mjvXjY25U-1eF63ZH6CeX8)\
   A great YouTube playlist that will teach you how to solve many different IT Helpdesk tickets. Check out Kevin's YouTube channel for a lot of valuable content in the helpdesk field and more.
 
+* 🆓🌐🇵🇱 [**Navoica (Polish Only!!!)**](https://discovery.navoica.pl/courses?navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B0%5D=Informatyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B1%5D=Matematyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B2%5D=Programowanie&navoica_product_pl%5BsortBy%5D=navoica_product_pl%2Fsort%2Fenrollment_start%3Adesc)\
+  Navoica to platforma z kursami tworzonymi przez polskie uniwersytety. Jest finansowana z budżetu Państwa, więć wszystkie kursy są dostępne za darmo, wystarczy się zalogować. Dostępne są kursy z m.in. informatyki, programowania i matematyki.
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
