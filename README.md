@@ -73,6 +73,9 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
   * Network Addressing and Basic Troubleshooitng
   * Network Support and Security
 
+* 💵📚 [**Computer Networking: A Top-Down Approach by Kurose and Rose**] \
+  Eveything a beginner should know about computer networking. There's a bunch of exercises included in the last chapter of the book.
+
 
 ***
 
